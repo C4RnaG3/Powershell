@@ -1,5 +1,5 @@
 ﻿<# 
-    Author: Zydr4te
+    Author: C4RnaG3
 
     Script: PortScan.ps1
 
